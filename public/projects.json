@@ -1,0 +1,74 @@
+[
+ {
+  "id": 1,
+  "name": "Bymetal-tool-inc. (MERN)",
+  "type": "Manufacturing Company Website",
+  "image": "https://i.ibb.co/2Kctc3y/bymetal-1.png",
+  "description": "This is a full-stack responsive react project where here is a dashboard for users and admin. Users can order parts, pay with credit card, cancel orders and can make reviews.Admin can add and delete products,make an user to an admin, ship or cancel orders. Please check the github readme file for getting admin access.",
+  "links": [
+   {
+    "title": "Live Site",
+    "url": "https://bymetal-tool-inc.web.app/"
+   },
+   {
+    "title": "Client Side Code",
+    "url": "https://github.com/ShamimHosen75/Bymetal-tool-inc-client-side"
+   },
+   {
+    "title": "Server Side Code",
+    "url": "https://github.com/ShamimHosen75/Bymetal-tool-inc-server-side"
+   }
+  ],
+  "liveLink": {
+   "title": "Live Site",
+   "url": "https://bymetal-tool-inc.web.app/"
+  }
+ },
+
+ {
+  "id": 2,
+  "name": "iTimeco-watch (MERN)",
+  "type": "Warehouse Management Website",
+  "image": "https://i.ibb.co/NjZH71h/i-Timeco-1.png",
+  "description": "This is another full stack responsive web application to manage store inventory. Where users can add , update, and delete products and update products quantity. Users can sign up and login into the website using google and github, anyone can not go to some pages without login which is developed by React Router Firebase authentication.",
+  "links": [
+   {
+    "title": "Live Site",
+    "url": "https://itimeco-watch.web.app/"
+   },
+   {
+    "title": "Client Side Code",
+    "url": "https://github.com/ShamimHosen75/iTimeco-watch-management-client"
+   },
+   {
+    "title": "Server Side Code",
+    "url": "https://github.com/ShamimHosen75/iTimeco-watch-management-server"
+   }
+  ],
+  "liveLink": {
+   "title": "Live Site",
+   "url": "https://itimeco-watch.web.app"
+  }
+ },
+ {
+  "id": 3,
+  "name": "SamFitness Center (React)",
+  "type": "Gymnasium Website Website",
+  "image": "https://i.ibb.co/SPXfRc3/Sam-Fitness-1.png",
+  "description": "This is a simple react website with routing and firebase authentication. Users can log in using email-password or google pop-up. Users cannot access the checkout page without logging in.",
+  "links": [
+   {
+    "title": "Live Site",
+    "url": "https://samfitnessc.web.app/"
+   },
+   {
+    "title": "Client Side Code",
+    "url": "https://github.com/ShamimHosen75/SamFitness-React-Auth"
+   }
+  ],
+  "liveLink": {
+   "title": "Live Site",
+   "url": "https://samfitnessc.web.app/"
+  }
+ }
+]
